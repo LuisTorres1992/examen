@@ -1,0 +1,2 @@
+EXÁMEN GRAFICACIÓN
+se implementò el paràmetros de las vidas y los corazones
